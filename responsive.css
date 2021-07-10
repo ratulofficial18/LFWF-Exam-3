@@ -1,0 +1,212 @@
+
+@media all and (max-width:1200px){
+    .service-text {
+        padding: 15px 10px;
+    }
+    .service-right-text h4 {
+        font-size: 18px;
+    }
+    .card-full-body h5 {
+        font-weight: 500;
+    }
+    .why-choose-us-left {
+        margin-right: 11px;
+    }
+    .clients-infos img {
+        left: 42%;
+    }
+    .about-us-image img {
+        width: 377px;
+    }
+    .about-us-image .about-inner-image img {
+        width: 227px;
+        right: -18px;
+        bottom: -44px;
+    }
+    .chemical-research-section {
+        position: relative;
+        top: 0;
+        left: 0;
+       
+    }
+    .about-section {
+        margin-top: 0px;
+    }
+    /* banner start */
+    .banner-section .details h2 {
+        font-size: 2.2rem;
+    }
+    .banner-section .details p {
+        font-size: 0.8rem;
+    }
+    /* banner end */
+}
+@media (max-width:1000px){
+    .container{
+        width: 100% ;
+        margin: auto;
+    }
+    .banner-section .carousel-caption h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .testing-rate-text h5 {
+        font-size: 14px;
+    }
+    .testing-rate-text h2 {
+        font-size: 35px;
+    }
+   
+}
+
+@media all and (max-width:995px){
+    .header-top {
+        display: none;
+    }
+    .news-full-section .card-title {
+        font-size: 14px;
+    }
+    .news-header h6 {
+        padding: 7px 10px;
+    }
+    .card-full-body {
+        padding: 1rem 7px;
+    }
+    .icon {
+        width: 100px;
+    }
+    .footer-social-icon ul li a {
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+    }
+    .technology-right h2 {
+        font-size: 25px;
+    }
+    .about-us-image img {
+        width: 100%;
+    }
+    .about-us-image .about-inner-image img {
+        width: 291px;
+    }
+    .about-us-image .about-inner-image img {
+        width: 155px;
+        right: -22px;
+        bottom: -21px;
+    }
+    .about-us-image .about-inner-image img {
+        width: 155px;
+        right: 89px;
+        bottom: -21px;
+    }
+}
+
+@media all and (max-width:986px){
+    .about-section {
+        margin-top:0;
+    }
+}
+
+
+@media all and (max-width:890px) {
+    .banner-section .details h2 {
+        font-size: 1.8rem;
+    }
+    .banner-section .details p {
+        font-size: 0.8rem;
+        padding: 17px 0 !important;
+    }
+}
+@media all and (max-width:770px){
+    .service-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 37px;
+        margin-right: 8px;
+    }
+    .service-right-text h4 {
+        font-size: 15px;
+    }
+    .service-text p {
+        font-size: 13px;
+    }
+    .service-text a {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .clients-text h2 {
+        font-size: 30px;
+    }
+    .clients-infos img {
+        left: 37%;
+    }
+    .about-section {
+        margin-top: 0px;
+    }
+
+}
+@media all and (max-width:767px){
+    .about-us-image .about-inner-image img {
+        right: 210px;
+    }
+   
+}
+@media all and (max-width:764px){
+    .chemical-research-section {
+        left: 16px;
+    }
+}
+
+@media all and (max-width:694px) {
+    .banner-section .details {
+        top: 17%;
+    }
+    .banner-section .details h2 {
+        font-size: 1.3rem;
+    }
+    .banner-section .details p {
+        font-size: 0.7rem;
+        padding: 6px 0 !important;
+    }
+    .banner-section .details {
+        width: 75%;
+        left: 14%;
+    }
+}
+
+
+
+@media all and (max-width:576px){
+ 
+}
+@media all and (max-width:578px){
+    .service-text p {
+        margin-bottom: 5px;
+    }
+    .clients-text h2 {
+        font-size: 25px;
+    }
+    .about-us-image .about-inner-image img {
+        right: 252px;
+    }
+    
+}
+@media all and (max-width:570px){
+    .about-us-image .about-inner-image img {
+        right: 232px;
+    }
+}
+
+@media all and (max-width:480px) {
+    .banner-section .details {
+        width: 90%;
+        left: 5%;
+        top: 5%;
+    }
+}
+
+@media all and (min-width:575px) {
+    .research-all-div {
+        margin-bottom: 14px !important;
+    }
+}
